@@ -3,3 +3,6 @@ test export-ignore
 .gitignore export-ignore
 test/ export-ignore
 ../.test export-ignore
+data/ export-ignore
+../.data export-ignore
+data export-ignore
