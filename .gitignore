@@ -1,1 +1,8 @@
-
+test 
+.gitattributes
+.gitignore
+test/ 
+../.test 
+data/ 
+../.data 
+data
